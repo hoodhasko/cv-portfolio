@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <main className="max-w-4xl mx-auto py-10 px-4">
+    <main className="max-w-4xl mx-auto">
       <section className="bg-white shadow-md rounded-2xl p-8 border mb-10">
         <div className="md:flex-row md:items-center md:justify-between">
           <div>
