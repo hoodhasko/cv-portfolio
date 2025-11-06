@@ -1,0 +1,21 @@
+{
+  "slug": "rost",
+  "title": "ROST",
+  "icon": "/images/projects/rost/icon.png",
+  "shortDescription": "Приложение для работы с недвижимостью на Бали",
+  "description": "Приложение для работы с недвижимостью на Бали.",
+  "works": "Проектная работа для редизайна приложения.На скриншотах экраны над которыми работал я",
+  "stack": ["React Native", "React Native Navigation", "RTK"],
+  "links": {},
+  "platforms": {
+    "ios": [
+      "/images/projects/rost/ios-1.png",
+      "/images/projects/rost/ios-2.png",
+      "/images/projects/rost/ios-4.png",
+      "/images/projects/rost/ios-5.png",
+      "/images/projects/rost/ios-6.png",
+      "/images/projects/rost/ios-7.png",
+      "/images/projects/rost/ios-3.png"
+    ]
+  }
+}
