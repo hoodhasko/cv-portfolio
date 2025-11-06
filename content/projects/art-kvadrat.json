@@ -1,0 +1,15 @@
+{
+  "slug": "art-kvadrat",
+  "title": "Арт Квадрат",
+  "description": "Демонстрационный проект для портфолио.",
+  "stack": ["React Native", "Expo"],
+  "links": {
+    "appstore": "https://ya.ru",
+    "playstore": "",
+    "rustore": "http://link.ru"
+  },
+  "platforms": {
+    "ios": ["/images/projects/art-kvadrat/ios-1.png"],
+    "android": ["/images/projects/art-kvadrat/android-1.png"]
+  }
+}
