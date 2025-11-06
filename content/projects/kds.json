@@ -12,7 +12,9 @@
     "OneSignal",
     "Sentry"
   ],
-  "links": {},
+  "links": {
+    "rustore": "https://www.rustore.ru/catalog/app/com.talanonline.kdstime"
+  },
   "platforms": {
     "ios": [
       "/images/projects/kds/ios-1.png",

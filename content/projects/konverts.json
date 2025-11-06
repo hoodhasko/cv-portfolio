@@ -1,0 +1,38 @@
+{
+  "slug": "konverts",
+  "title": "Желтые конверты",
+  "icon": "/images/projects/konverts/icon.png",
+  "shortDescription": "Приложение для показа рекламных объявлений",
+  "description": "Приложение для показа рекламных объявлений",
+  "works": "Разработка с 0",
+  "stack": [
+    "React Native",
+    "React Native Navigation",
+    "RTK",
+    "Async Storage",
+    "OneSignal",
+    "Sentry"
+  ],
+  "links": {
+    "rustore": "https://www.rustore.ru/catalog/app/com.talanonline.konvert"
+  },
+  "platforms": {
+    "ios": [
+      "/images/projects/konverts/ios-1.png",
+      "/images/projects/konverts/ios-2.png",
+      "/images/projects/konverts/ios-3.png",
+      "/images/projects/konverts/ios-4.png",
+      "/images/projects/konverts/ios-5.png",
+      "/images/projects/konverts/ios-6.png",
+      "/images/projects/konverts/ios-7.png",
+      "/images/projects/konverts/ios-8.png",
+      "/images/projects/konverts/ios-9.png",
+      "/images/projects/konverts/ios-10.png",
+      "/images/projects/konverts/ios-11.png",
+      "/images/projects/konverts/ios-12.png",
+      "/images/projects/konverts/ios-13.png",
+      "/images/projects/konverts/ios-14.png",
+      "/images/projects/konverts/ios-15.png"
+    ]
+  }
+}
