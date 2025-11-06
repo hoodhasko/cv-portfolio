@@ -1,6 +1,7 @@
 import Link from "next/link";
 import fs from "fs";
 import path from "path";
+import Image from "next/image";
 
 export default async function ProjectsPage() {
   const dir = path.join(process.cwd(), "content/projects");
@@ -20,7 +21,21 @@ export default async function ProjectsPage() {
             href={`/projects/${p.slug}`}
             className="block p-5 border rounded-2xl shadow-sm hover:shadow-md transition"
           >
-            <h2 className="text-xl font-semibold mb-2">{p.title}</h2>
+            <div className="flex gap-4 md:items-center mb-2">
+              {p.icon ? (
+                <Image
+                  src={p.icon}
+                  alt={p.slug}
+                  width={50}
+                  height={50}
+                  sizes="100vw"
+                  className=" rounded-xl"
+                />
+              ) : null}
+
+              <h2 className="text-xl font-semibold ">{p.title}</h2>
+            </div>
+
             <p className="text-sm text-gray-500 line-clamp-3">
               {p.description}
             </p>

@@ -1,15 +1,30 @@
 {
   "slug": "art-kvadrat",
   "title": "Арт Квадрат",
-  "description": "Демонстрационный проект для портфолио.",
-  "stack": ["React Native", "Expo"],
-  "links": {
-    "appstore": "https://ya.ru",
-    "playstore": "",
-    "rustore": "http://link.ru"
-  },
+  "icon": "/images/projects/art-kvadrat/icon.png",
+  "shortDescription": "Мобильное приложение и веб-сервис для жителей и гостей города",
+  "description": "Мобильное приложение и веб-сервис для жителей и гостей города для городского центра Арт-КВАДРАТ.\n Приложение предоставляет афишу мероприятий, новостей, возможность покупки билетов, получение уведомлений, поддержка арт-резидентов пожертвованиями. В приложении реализованы работа нескольких ролей: посетитель, арт-резидент, бизнес-партнер.",
+  "stack": [
+    "React Native",
+    "React Native Navigation",
+    "RTK",
+    "Axios",
+    "One Signal",
+    "Sentry"
+  ],
+  "links": {},
   "platforms": {
-    "ios": ["/images/projects/art-kvadrat/ios-1.png"],
-    "android": ["/images/projects/art-kvadrat/android-1.png"]
+    "ios": [
+      "/images/projects/art-kvadrat/ios-1.png",
+      "/images/projects/art-kvadrat/ios-2.png",
+      "/images/projects/art-kvadrat/ios-3.png",
+      "/images/projects/art-kvadrat/ios-4.png",
+      "/images/projects/art-kvadrat/ios-5.png",
+      "/images/projects/art-kvadrat/ios-6.png",
+      "/images/projects/art-kvadrat/ios-7.png",
+      "/images/projects/art-kvadrat/ios-8.png",
+      "/images/projects/art-kvadrat/ios-9.png",
+      "/images/projects/art-kvadrat/ios-10.png"
+    ]
   }
 }
