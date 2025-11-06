@@ -3,6 +3,7 @@ import path from "path";
 import {
   ProjectGallery,
   ProjectHeader,
+  ProjectJobsList,
   ProjectMarkets,
   ProjectTechStack,
 } from "./components";
@@ -33,6 +34,7 @@ export default async function ProjectPage({
     <main className="max-w-3xl mx-auto px-4 py-8">
       <ProjectHeader title={data.title} description={data.description} />
       <ProjectTechStack stack={data.stack} />
+      <ProjectJobsList works={data.works} />
       <ProjectMarkets links={data.links} />
       <ProjectGallery platforms={data.platforms} />
     </main>

@@ -1,0 +1,33 @@
+{
+  "slug": "lr-service",
+  "title": "LR Service",
+  "icon": "/images/projects/lr-service/icon.png",
+  "shortDescription": "Мобильное приложение для поиска заявок по различным специализациям.",
+  "description": "Мобильное приложение для поиска заявок по различным специализациям и получением денег за работы.",
+  "works": "Мои задачи были по сопровождению проекта.Исправление небольших багов.Добавление маленьких фич.Переработка входа в приложение с смс на код от оператора",
+  "stack": [
+    "React Class components",
+    "React Native",
+    "React Native Navigation",
+    "Redux",
+    "Redux Thunk",
+    "Axios",
+    "One Signal"
+  ],
+  "links": {
+    "rustore": "https://www.rustore.ru/catalog/app/ru.talanonline.lrservice.app"
+  },
+  "platforms": {
+    "ios": [
+      "/images/projects/lr-service/ios-1.jpg",
+      "/images/projects/lr-service/ios-2.jpg",
+      "/images/projects/lr-service/ios-3.jpg",
+      "/images/projects/lr-service/ios-4.jpg",
+      "/images/projects/lr-service/ios-5.jpg",
+      "/images/projects/lr-service/ios-6.jpg",
+      "/images/projects/lr-service/ios-7.jpg",
+      "/images/projects/lr-service/ios-8.png",
+      "/images/projects/lr-service/ios-9.jpg"
+    ]
+  }
+}

@@ -12,8 +12,6 @@ export default async function ProjectsPage() {
 
   return (
     <section className="max-w-4xl mx-auto">
-      <h1 className="text-3xl font-bold mb-6">Мои проекты</h1>
-
       <div className="grid gap-6 md:grid-cols-2">
         {projects.map((p) => (
           <Link
@@ -37,7 +35,7 @@ export default async function ProjectsPage() {
             </div>
 
             <p className="text-sm text-gray-500 line-clamp-3">
-              {p.description}
+              {p.shortDescription}
             </p>
           </Link>
         ))}
