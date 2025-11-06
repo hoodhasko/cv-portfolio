@@ -1,0 +1,24 @@
+{
+  "slug": "kds",
+  "title": "KDS",
+  "icon": "/images/projects/kds/icon.png",
+  "shortDescription": "Приложение для игр с детьми",
+  "description": "Приложение для игр с детьми",
+  "works": "Разработка с 0",
+  "stack": [
+    "React Native",
+    "React Native Navigation",
+    "RTK",
+    "OneSignal",
+    "Sentry"
+  ],
+  "links": {},
+  "platforms": {
+    "ios": [
+      "/images/projects/kds/ios-1.png",
+      "/images/projects/kds/ios-2.png",
+      "/images/projects/kds/ios-4.png",
+      "/images/projects/kds/ios-3.png"
+    ]
+  }
+}
