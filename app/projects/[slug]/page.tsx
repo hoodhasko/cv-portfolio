@@ -31,7 +31,7 @@ export default async function ProjectPage({
   );
 
   return (
-    <main className="max-w-3xl mx-auto px-4 py-8">
+    <main className="max-w-3xl mx-auto">
       <ProjectHeader title={data.title} description={data.description} />
       <ProjectTechStack stack={data.stack} />
       <ProjectJobsList works={data.works} />

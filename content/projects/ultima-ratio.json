@@ -1,0 +1,33 @@
+{
+  "slug": "ultima-ratio",
+  "title": "Ultima Ratio. Доставка топлива",
+  "icon": "/images/projects/ultima-ratio/icon.png",
+  "shortDescription": "Сервис для заказа доставки топлива до бака вашего автомобиля",
+  "description": "Разработка двух мобильных приложений для водителя и для клиента. Приложение позволяет заказать топливо, отслеживать движение водителя, управлять программой лояльности и получать уведомления.",
+  "works": "Рефакторинг экрана с картой, разбиение на компоненты, оптимизация кода, фиксы карты.Разработка экранов заказа топлива.Разработка слайдера для выбора количества топлива.Разработка экранов программы лояльности.Настройка уведомлений",
+  "stack": [
+    "React Native",
+    "React Native Navigation",
+    "RTK",
+    "react-native-yamap",
+    "Sentry"
+  ],
+  "links": {
+    "rustore": "https://www.rustore.ru/catalog/app/com.ratio.client",
+    "appstore": "https://apps.apple.com/us/app/ultima-ratio-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0-%D1%82%D0%BE%D0%BF%D0%BB%D0%B8%D0%B2%D0%B0/id6444177458",
+    "playstore": "https://play.google.com/store/apps/details?id=com.ratio.client"
+  },
+  "platforms": {
+    "ios": [
+      "/images/projects/ultima-ratio/ios-1.png",
+      "/images/projects/ultima-ratio/ios-2.png",
+      "/images/projects/ultima-ratio/ios-3.png",
+      "/images/projects/ultima-ratio/ios-4.png",
+      "/images/projects/ultima-ratio/ios-5.png",
+      "/images/projects/ultima-ratio/ios-6.png",
+      "/images/projects/ultima-ratio/ios-7.png",
+      "/images/projects/ultima-ratio/ios-8.png",
+      "/images/projects/ultima-ratio/ios-9.png"
+    ]
+  }
+}
