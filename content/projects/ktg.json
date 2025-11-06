@@ -1,0 +1,28 @@
+{
+  "slug": "ktg",
+  "title": "Производственная безопасность КТЖ",
+  "icon": "/images/projects/ktg/icon.png",
+  "shortDescription": "Приложение для регистрации и контроля происшествий",
+  "description": "Приложение, мобильная CRM, для регистрации и контроля происшествий",
+  "works": "Разработка с 0.Ролевой доступ к разделам.Создание UI библиотеки компонентов.",
+  "stack": [
+    "React Native",
+    "React Native Navigation",
+    "RTK",
+    "Async Storage",
+    "react-hook-form",
+    "Sentry"
+  ],
+  "links": {},
+  "platforms": {
+    "android": [
+      "/images/projects/ktg/android-1.png",
+      "/images/projects/ktg/android-2.png",
+      "/images/projects/ktg/android-3.png",
+      "/images/projects/ktg/android-4.png",
+      "/images/projects/ktg/android-5.png",
+      "/images/projects/ktg/android-6.png",
+      "/images/projects/ktg/android-7.png"
+    ]
+  }
+}
