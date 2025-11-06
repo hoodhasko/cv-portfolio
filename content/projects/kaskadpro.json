@@ -1,0 +1,30 @@
+{
+  "slug": "kaskadpro",
+  "title": "КАСКАДПРО",
+  "icon": "/images/projects/kaskadpro/icon.png",
+  "shortDescription": "Мобильное приложение для считывания параметров станций",
+  "description": "Мобильное приложение для подключение по Wi-Fi к tcp серверу станции и постоянном считывании данных. Также считывания и запись данных с NFC меток.",
+  "works": "Разработка приложения с 0.Создание сервисов для подключения к Wi-Fi, к TCP серверу и работы с NFC метками.Парсинг байтовых данных",
+  "stack": [
+    "React Native",
+    "React Native Navigation",
+    "Zustand",
+    "MMKV",
+    "react-native-tcp-socket",
+    "react-native-wifi-reborn",
+    "Zod",
+    "Sentry"
+  ],
+  "links": {},
+  "platforms": {
+    "android": [
+      "/images/projects/kaskadpro/android-1.png",
+      "/images/projects/kaskadpro/android-2.png",
+      "/images/projects/kaskadpro/android-3.png",
+      "/images/projects/kaskadpro/android-4.png",
+      "/images/projects/kaskadpro/android-5.png",
+      "/images/projects/kaskadpro/android-6.png",
+      "/images/projects/kaskadpro/android-7.png"
+    ]
+  }
+}
